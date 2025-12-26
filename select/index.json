@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "何度目の青空か？",
+  "base_artist": "乃木坂46",
+  "createdAt": "2025-12-26T05:04:36.098226Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "何度目の青空か?",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/01_何度目の青空か_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "何度目の青空か",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/02_何度目の青空か_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "何度目の青空か?",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/03_何度目の青空か_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "何度目の青空か��",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/04_何度目の青空か��_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "何度目の青空か？",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/05_何度目の青空か_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "何度目の青空か？",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/06_何度目の青空か_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "何度目の青空か？",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/07_何度目の青空か_Nogizaka46.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "何度目の青空か?",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_01_何度目の青空か_乃木坂46.txt"
+    }
+  ]
+}
